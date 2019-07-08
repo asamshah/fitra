@@ -1,0 +1,44 @@
+{
+  "general": {
+    "404": {
+      "title": "Woops! Looks like you're lost",
+      "back": "Back to Fitra"
+    }
+  },
+  "product": {
+    "copy": {
+      "headline": "Hassle Free Fitness Tracker",
+      "description-headline": "Information"
+    },
+    "details_list": {
+      "Item1": "Companion Apps for iOS & Android",
+      "Item2": "Pre-orders begin Shipping this March"
+    },
+    "form": {
+      "submit":"Preorder"
+    }
+  },
+  "cart": {
+    "general": {
+      "title": "Cart",
+      "preorder-info": "All preorders ship free this March",
+      "support_title": "Any questions?",
+      "support_email": "asamshah@gmail.com",
+      "checkout": "Checkout",
+      "empty": "Your Cart is Empty",
+      "back": "Back to Fitra"
+    },
+    "button": {
+      "filled": "Your Cart",
+      "empty": "Your Cart is Empty",
+      "close": "Close"
+    },
+    "lines": {
+      "title": "Order Summary",
+      "shipping": "Shipping",
+      "subtotal": "Subtotal",
+      "free": "Free",
+      "remove": "Remove"
+    }
+  }
+}
